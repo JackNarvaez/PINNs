@@ -1,7 +1,14 @@
 # PINNs
-Solving EDO with Physical Informed Neural Networks.
 
-**Note:** This is an unfinished repository, so there are still some bugs to fix. 
+An introduction to PINNs, Physics-Informed Neural Networks.
+
+This repository is divided into three parts:
+
+1. Perceptron: It provides a basic introduction to Neural Networks (NNs). In particular, it develops an elementary model of a Perceptron variation, i.e., a single neural network.
+
+2. Backpropagation: It provides the Backpropagation for a general Neural Network. In addition, it develops the maths behind this algorithm.
+
+3. PINNs: It introduces a class of NNs called Physics-Informed Neural Networks. Particularly, it solves some examples of EDOs using PINNs implemented with the FLUX package.
 
 ## References
 
